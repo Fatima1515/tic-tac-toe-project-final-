@@ -10,7 +10,7 @@ We need a framework that fits our skills, timeline, and supports Android develop
 Decided on React Native.
 
 ## Status
-Decided on React Native. Open to small configuration adjustments as needed.
+Decided on React Native. Open to small adjustments as needed.
 
 ## Details
 
